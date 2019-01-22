@@ -1,0 +1,16 @@
+.form-control {
+}
+
+#uu {
+}
+
+form {
+}
+
+.btn:not(:disabled):not(.disabled) {
+  background-color: #9e6b05;
+}
+
+.text-info.small {
+}
+
